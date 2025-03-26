@@ -1,0 +1,5 @@
+package Inner;
+
+public enum SatelliteType {
+    COMMUNICATION, EARTH_OBSERVATION, NAVIGATION, SCIENTIFIC, MILITARY;
+}
