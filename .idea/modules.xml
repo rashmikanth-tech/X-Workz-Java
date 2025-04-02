@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Instance Variable as Private.iml" filepath="$PROJECT_DIR$/Instance Variable as Private.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Inherit India.iml" filepath="$PROJECT_DIR$/Inherit India.iml" />
+>>>>>>> 195b35e (Initial commit)
     </modules>
   </component>
 </project>
