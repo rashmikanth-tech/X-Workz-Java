@@ -1,6 +1,7 @@
 package casting;
 
 public class ChandigarhParentDetails extends ChandigarhParent {
+
     @Override
     public void countryInfo() {
         System.out.println("Overridden: countryInfo in ChandigarhParentDetails");

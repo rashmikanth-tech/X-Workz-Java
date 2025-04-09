@@ -30,5 +30,6 @@ public class ChandigarhParentRunner {
 
         ChandigarhParentCast caster = new ChandigarhParentCast();
         caster.cast(obj2);
+
     }
 }
