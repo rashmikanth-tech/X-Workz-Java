@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abafea45-ac50-4876-b322-5071ec6e6af1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2StringHashCOdeEquel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Amaranth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Artichoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Arugula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/AshGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Asparagus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Avocado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/BambooShoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Beetroot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/BitterGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/BlackGram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/BottleGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Brinjal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Broccoli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/BrusselsSprout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Cabbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Capsicum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Carrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Cassava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Cauliflower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Celery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Celosia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Chayote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Chickpea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Chili.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/ClusterBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Collard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Coriander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Corn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Cowpea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Cucumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Daikon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Dill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Drumstick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Edamame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/ElephantFootYam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Endive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Enset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Fennel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Fenugreek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/FieldBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/FrenchBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Ginger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/GreenGram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/HorseGram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Horseradish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/IvyGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Jicama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Kale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Kohlrab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Kohlrabi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Leek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Lettuce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/LimaBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/LotusRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/MalabarSpinach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Mint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Moringa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Mustard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/NapaCabbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Nopal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Okra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Parsley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Parsnip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Peas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Perilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/PigeonPea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Plantain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Potato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Pumpkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Radicchio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Radish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/RawBanana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/RawMango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/RedCabbage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/RidgeGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Rutabaga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Scallion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Seaweed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/SnakeGourd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Sorrel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Soybean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Spinach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/SpringOnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/SweetPotato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/SwissChard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Taro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Tatsoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Tindora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Tomatillo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Tomato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Turmeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Turnip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Urad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Wasabi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Watercress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/WingedBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Yam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/YardlongBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/inner/Zucchini.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2vgTpMS3lNqmAVCmsYvVIIZQMNh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AmaranthRunner.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "P:/2StringHashCOdeEquel/src/com/xworkz/inner",
+    "onboarding.tips.debug.path": "P:/2StringHashCOdeEquel/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\2StringHashCOdeEquel\src\com\xworkz\inner" />
+      <recent name="P:\2StringHashCOdeEquel\src\com\xworkz\allclass" />
+      <recent name="P:\2StringHashCOdeEquel\src\com\xworkz" />
+      <recent name="P:\2StringHashCOdeEquel\src\com\xworkz\innerall" />
+      <recent name="P:\2StringHashCOdeEquel\src\com\xworkz\internal" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AmaranthRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.AmaranthRunner" />
+      <module name="2StringHashCOdeEquel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AmaranthRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abafea45-ac50-4876-b322-5071ec6e6af1" name="Changes" comment="" />
+      <created>1744565902801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744565902801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xworkz/allvariable/ButternutSquash.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
