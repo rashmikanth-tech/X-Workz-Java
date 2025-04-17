@@ -1,7 +1,7 @@
 package com.xworkz.implement.Implements5;
 
 import com.xworkz.implement.Interfaces.*;
-Watch;
+
 
 
 public class ClockImplements5 implements Clock, Watch, Speaker, Headphone, Camera {
@@ -18,5 +18,10 @@ public class ClockImplements5 implements Clock, Watch, Speaker, Headphone, Camer
     @Override
     public void state() {
         System.out.println("running  state in implements");
+    }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
     }
 }

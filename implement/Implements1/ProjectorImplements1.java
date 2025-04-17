@@ -18,4 +18,9 @@ public class ProjectorImplements1 implements Projector {
     public void state() {
         System.out.println("running projector state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in project");
+
+    }
 }

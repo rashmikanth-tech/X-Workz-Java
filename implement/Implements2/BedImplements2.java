@@ -20,4 +20,9 @@ public class BedImplements2 implements Bed, Sofa {
     public void state() {
         System.out.println("running bed state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in bed sofa");
+
+    }
 }

@@ -20,4 +20,9 @@ public class AirplaneImplements1 implements Airplane {
     public void state() {
         System.out.println("running airplane state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in plane");
+
+    }
 }

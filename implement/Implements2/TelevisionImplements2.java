@@ -20,4 +20,9 @@ public class TelevisionImplements2 implements Television, Fridge {
     public void state() {
         System.out.println("running tv state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in telivision frdge");
+
+    }
 }

@@ -19,4 +19,9 @@ public class FanImplements5 implements Fan, Television, Fridge, Car, Bike {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

@@ -20,4 +20,9 @@ public class CalculatorImplements2 implements Calculator, Microwave {
     public void state() {
         System.out.println("running calculator state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in calc micro");
+
+    }
 }

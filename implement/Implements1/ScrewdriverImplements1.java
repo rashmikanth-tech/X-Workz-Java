@@ -18,4 +18,9 @@ public class ScrewdriverImplements1 implements Screwdriver {
     public void state() {
         System.out.println("running screwdriver state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in screw");
+
+    }
 }

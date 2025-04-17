@@ -19,4 +19,9 @@ public class BikeImplements5 implements Bike, Bus, Train, Airplane, Ship {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in Bike, Bus, Train, Airplane, Ship");
+
+    }
 }

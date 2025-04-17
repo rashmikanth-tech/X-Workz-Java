@@ -18,4 +18,9 @@ public class DroneImplements1 implements Drone {
     public void state() {
         System.out.println("running drone state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in drone");
+
+    }
 }

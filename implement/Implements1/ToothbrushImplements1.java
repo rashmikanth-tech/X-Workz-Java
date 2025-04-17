@@ -18,4 +18,9 @@ public class ToothbrushImplements1 implements Toothbrush {
     public void state() {
         System.out.println("running tooth brush state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in toothbrush");
+
+    }
 }

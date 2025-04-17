@@ -20,4 +20,9 @@ public class CapImplements2 implements Cap, Helmet {
     public void state() {
         System.out.println("running cap state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in cap helmet");
+
+    }
 }

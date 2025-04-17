@@ -18,4 +18,9 @@ public class FloorImplements1 implements Floor {
     public void state() {
         System.out.println("running floor state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in floor");
+
+    }
 }

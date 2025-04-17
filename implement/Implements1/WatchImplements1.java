@@ -18,4 +18,9 @@ public class WatchImplements1 implements Watch {
     public void state() {
         System.out.println("running watch state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in watch");
+
+    }
 }

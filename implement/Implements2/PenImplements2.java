@@ -20,4 +20,9 @@ public class PenImplements2 implements Pen, Book {
     public void state() {
         System.out.println("running pen state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in pen book");
+
+    }
 }

@@ -18,4 +18,9 @@ public class PrinterImplements1 implements Printer {
     public void state() {
         System.out.println("running printer state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in printer");
+
+    }
 }

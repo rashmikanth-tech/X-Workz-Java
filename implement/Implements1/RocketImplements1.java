@@ -18,4 +18,9 @@ public class RocketImplements1 implements Rocket {
     public void state() {
         System.out.println("running rocket state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in rock");
+
+    }
 }

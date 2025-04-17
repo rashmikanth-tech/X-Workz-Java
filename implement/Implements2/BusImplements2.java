@@ -20,4 +20,9 @@ public class BusImplements2 implements Bus, Train {
     public void state() {
         System.out.println("running bus state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in bus train");
+
+    }
 }

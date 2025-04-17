@@ -20,4 +20,9 @@ public class BookImplements5 implements Book, Laptop, Smartphone, Bottle, Fan {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running inBook, Laptop, Smartphone, Bottle, Fa");
+
+    }
 }

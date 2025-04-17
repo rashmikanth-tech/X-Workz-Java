@@ -18,4 +18,9 @@ public class MonitorImplements1 implements Monitor {
     public void state() {
         System.out.println("running monitor state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in monitor");
+
+    }
 }

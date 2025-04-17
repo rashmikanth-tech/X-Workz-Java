@@ -18,4 +18,8 @@ public class CapImplements1 implements Cap {
     public void state() {
         System.out.println("running cap state in implements");
     }
+    public void features(){
+        System.out.println("feature running in cap");
+
+    }
 }

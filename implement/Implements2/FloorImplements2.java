@@ -20,4 +20,9 @@ public class FloorImplements2 implements Floor, Key {
     public void state() {
         System.out.println("running floor state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in floor key");
+
+    }
 }

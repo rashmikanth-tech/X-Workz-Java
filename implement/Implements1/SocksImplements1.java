@@ -18,4 +18,9 @@ public class SocksImplements1 implements Socks {
     public void state() {
         System.out.println("running socks state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in socks");
+
+    }
 }

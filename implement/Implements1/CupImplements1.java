@@ -18,4 +18,9 @@ public class CupImplements1 implements Cup {
     public void state() {
         System.out.println("running cup state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in cup");
+
+    }
 }

@@ -18,4 +18,9 @@ public class HammerImplements1 implements Hammer {
     public void state() {
         System.out.println("running hammer state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in hammer");
+
+    }
 }

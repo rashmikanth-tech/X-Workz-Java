@@ -18,4 +18,9 @@ public class SmartphoneImplements1 implements Smartphone {
     public void state() {
         System.out.println("running smartphone state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in smart");
+
+    }
 }

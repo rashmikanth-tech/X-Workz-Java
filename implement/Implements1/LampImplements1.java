@@ -18,4 +18,9 @@ public class LampImplements1 implements Lamp {
     public void state() {
         System.out.println("running lamp state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in lamp");
+
+    }
 }

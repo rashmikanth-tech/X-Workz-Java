@@ -18,4 +18,9 @@ public class MicroscopeImplements1 implements Microscope {
     public void state() {
         System.out.println("running microscope state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in microscope");
+
+    }
 }

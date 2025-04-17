@@ -18,4 +18,9 @@ public class ShirtImplements1 implements Shirt {
     public void state() {
         System.out.println("running shirt state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in shirt");
+
+    }
 }

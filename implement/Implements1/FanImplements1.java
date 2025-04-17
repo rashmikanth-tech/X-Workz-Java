@@ -18,4 +18,9 @@ public class FanImplements1 implements Fan {
     public void state() {
         System.out.println("running fan state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in fan");
+
+    }
 }

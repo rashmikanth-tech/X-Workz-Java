@@ -18,4 +18,8 @@ public class BusImplements1 implements Bus {
     public void state() {
         System.out.println("running bus state in implements");
     }
+    public void features(){
+        System.out.println("feature running in bus");
+
+    }
 }

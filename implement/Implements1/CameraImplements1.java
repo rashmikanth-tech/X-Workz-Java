@@ -18,4 +18,8 @@ public class CameraImplements1 implements Camera {
     public void state() {
         System.out.println("running camera state in implements");
     }
+    public void features(){
+        System.out.println("feature running in camera");
+
+    }
 }

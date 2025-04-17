@@ -18,4 +18,8 @@ public class CalculatorImplements1 implements Calculator {
     public void state() {
         System.out.println("running calculator state in implements");
     }
+    public void features(){
+        System.out.println("feature running in calcu");
+
+    }
 }

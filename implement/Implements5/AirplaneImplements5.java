@@ -1,7 +1,6 @@
 package com.xworkz.implement.Implements5;
 
 import com.xworkz.implement.Interfaces.*;
-*;
 
 
 public class AirplaneImplements5 implements Airplane, Ship, Clock, Watch, Speaker {
@@ -18,5 +17,10 @@ public class AirplaneImplements5 implements Airplane, Ship, Clock, Watch, Speake
     @Override
     public void state() {
         System.out.println("running  state in implements");
+    }
+    @Override
+    public void features(){
+        System.out.println("feature running in Airplane, Ship, Clock, Watch, Speaker");
+
     }
 }

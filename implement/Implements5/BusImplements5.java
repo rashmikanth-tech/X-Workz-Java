@@ -19,4 +19,9 @@ public class BusImplements5 implements Bus, Train, Airplane, Ship, Clock {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

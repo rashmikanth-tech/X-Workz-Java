@@ -18,4 +18,8 @@ public class ChairImplements1 implements Chair {
     public void state() {
         System.out.println("running chair state in implements");
     }
+    public void features(){
+        System.out.println("feature running in chair");
+
+    }
 }

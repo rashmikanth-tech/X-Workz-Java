@@ -20,4 +20,9 @@ public class CupImplements2 implements Cup, Glass {
     public void state() {
         System.out.println("running cup state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in cup glass");
+
+    }
 }

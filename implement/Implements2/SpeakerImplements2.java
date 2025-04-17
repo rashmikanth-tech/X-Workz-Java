@@ -20,4 +20,9 @@ public class SpeakerImplements2 implements Speaker, Headphone {
     public void state() {
         System.out.println("running speaker state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in speaker headphone");
+
+    }
 }

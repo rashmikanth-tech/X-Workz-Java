@@ -18,4 +18,8 @@ public class CarpetImplements1 implements Carpet {
     public void state() {
         System.out.println("running carpet state in implements");
     }
+    public void features(){
+        System.out.println("feature running in carpet");
+
+    }
 }

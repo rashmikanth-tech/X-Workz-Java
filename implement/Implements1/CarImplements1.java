@@ -18,4 +18,8 @@ public class CarImplements1 implements Car {
     public void state() {
         System.out.println("running car state in implements");
     }
+    public void features(){
+        System.out.println("feature running in car");
+
+    }
 }

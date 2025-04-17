@@ -18,4 +18,9 @@ public class LaptopImplements1 implements Laptop {
     public void state() {
         System.out.println("running laptop state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in laptop");
+
+    }
 }

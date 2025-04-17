@@ -19,4 +19,9 @@ public class TableImplements5 implements Table, Pen, Book, Laptop, Smartphone {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

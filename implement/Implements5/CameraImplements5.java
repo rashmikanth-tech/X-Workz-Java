@@ -19,4 +19,9 @@ public class CameraImplements5 implements Camera, Bulb, Calculator, Microwave, W
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

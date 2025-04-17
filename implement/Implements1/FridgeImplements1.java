@@ -18,4 +18,9 @@ public class FridgeImplements1 implements Fridge {
     public void state() {
         System.out.println("running fridge state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in fridge");
+
+    }
 }

@@ -20,4 +20,9 @@ public class CameraImplements2 implements Camera, Bulb {
     public void state() {
         System.out.println("running camera state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in camear bulb");
+
+    }
 }

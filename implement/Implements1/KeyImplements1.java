@@ -18,4 +18,9 @@ public class KeyImplements1 implements Key {
     public void state() {
         System.out.println("running key state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in key");
+
+    }
 }

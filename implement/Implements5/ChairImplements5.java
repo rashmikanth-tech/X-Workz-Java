@@ -19,4 +19,9 @@ public class ChairImplements5 implements Chair, Table, Pen, Book, Laptop {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

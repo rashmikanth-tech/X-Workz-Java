@@ -3,166 +3,450 @@ package com.xworkz.implement.Runner;
 import com.xworkz.implement.Implements1.*;
 import com.xworkz.implement.Interfaces.*;
 
-
-
-
 public class Runner {
     public static void main(String[] args) {
-        Vehicle vehicle=new VehicleImplements1();
+        Vehicle vehicle = new VehicleImplements1();
         vehicle.behaviour();
         vehicle.identity();
         vehicle.state();
-        Book book=new BookImplements1();
+        vehicle.features();
+
+        Book book = new BookImplements1();
         book.behaviour();
         book.state();
         book.identity();
-        Bottle bottle=new BottleImplements1();
+        book.features();
+
+        Bottle bottle = new BottleImplements1();
         bottle.behaviour();
         bottle.state();
         bottle.identity();
-        Chair chair=new ChairImplements1();
+        bottle.features();
+
+        Chair chair = new ChairImplements1();
         chair.behaviour();
         chair.state();
         chair.identity();
-        Fan fan=new FanImplements1();
+        chair.features();
+
+        Fan fan = new FanImplements1();
         fan.behaviour();
-        Laptop laptop=new LaptopImplements1();
+        fan.identity();
+        fan.state();
+        fan.features();
+
+        Laptop laptop = new LaptopImplements1();
         laptop.behaviour();
-        Pen pen=new PenImplements1();
+        laptop.identity();
+        laptop.state();
+        laptop.features();
+
+        Pen pen = new PenImplements1();
         pen.state();
-        Smartphone smartphone=new SmartphoneImplements1();
+        pen.behaviour();
+        pen.identity();
+        pen.features();
+
+        Smartphone smartphone = new SmartphoneImplements1();
         smartphone.state();
-        Table table=new TableImplements1();
+        smartphone.behaviour();
+        smartphone.identity();
+        smartphone.features();
+
+        Table table = new TableImplements1();
         table.behaviour();
-        Television television=new TelevisionImplements1();
+        table.state();
+        table.identity();
+        table.features();
+
+        Television television = new TelevisionImplements1();
         television.identity();
-        Fridge fridge=new FridgeImplements1();
+        television.state();
+        television.behaviour();
+        television.features();
+
+        Fridge fridge = new FridgeImplements1();
         fridge.state();
-        Car car=new CarImplements1();
+        fridge.behaviour();
+        fridge.identity();
+        fridge.features();
+
+        Car car = new CarImplements1();
         car.behaviour();
-        Bike bike=new BikeImplements1();
+        car.state();
+        car.identity();
+        car.features();
+
+        Bike bike = new BikeImplements1();
         bike.identity();
-        Bus bus=new BusImplements1();
+        bike.behaviour();
+        bike.state();
+        bike.features();
+
+        Bus bus = new BusImplements1();
         bus.state();
-        Train train=new TrainImplements1();
+        bus.behaviour();
+        bus.identity();
+        bus.features();
+
+        Train train = new TrainImplements1();
         train.behaviour();
-        Airplane airplane=new AirplaneImplements1();
+        train.state();
+        train.identity();
+        train.features();
+
+        Airplane airplane = new AirplaneImplements1();
         airplane.identity();
-        Ship ship=new ShipImplements1();
+        airplane.state();
+        airplane.behaviour();
+        airplane.features();
+
+        Ship ship = new ShipImplements1();
         ship.state();
-        Clock clock=new ClockImplements1();
+        ship.behaviour();
+        ship.identity();
+        ship.features();
+
+        Clock clock = new ClockImplements1();
         clock.behaviour();
-        Watch watch=new WatchImplements1();
+        clock.state();
+        clock.identity();
+        clock.features();
+
+        Watch watch = new WatchImplements1();
         watch.identity();
-        Speaker speaker=new SpeakerImplements1();
+        watch.state();
+        watch.behaviour();
+        watch.features();
+
+        Speaker speaker = new SpeakerImplements1();
         speaker.state();
-        Headphone headphone=new HeadphoneImplements1();
+        speaker.behaviour();
+        speaker.identity();
+        speaker.features();
+
+        Headphone headphone = new HeadphoneImplements1();
         headphone.behaviour();
-        Camera camera=new CameraImplements1();
+        headphone.state();
+        headphone.identity();
+        headphone.features();
+
+        Camera camera = new CameraImplements1();
         camera.identity();
-        Bulb bulb=new BulbImplements1();
+        camera.behaviour();
+        camera.state();
+        camera.features();
+
+        Bulb bulb = new BulbImplements1();
         bulb.state();
-        Calculator calculator=new CalculatorImplements1();
+        bulb.behaviour();
+        bulb.identity();
+        bulb.features();
+
+        Calculator calculator = new CalculatorImplements1();
         calculator.behaviour();
-        Microwave microwave=new MicrowaveImplements1();
+        calculator.state();
+        calculator.identity();
+        calculator.features();
+
+        Microwave microwave = new MicrowaveImplements1();
         microwave.identity();
-        WasshingMachine wasshingMachine=new WashingMachineImplements1();
-        wasshingMachine.state();
-        Oven oven=new OvenImplements1();
+        microwave.state();
+        microwave.behaviour();
+        microwave.features();
+
+        WasshingMachine washingMachine = new WashingMachineImplements1();
+        washingMachine.state();
+        washingMachine.behaviour();
+        washingMachine.identity();
+        washingMachine.features();
+
+        Oven oven = new OvenImplements1();
         oven.behaviour();
-        Plate plate=new PlateImplements1();
+        oven.state();
+        oven.identity();
+        oven.features();
+
+        Plate plate = new PlateImplements1();
         plate.identity();
-        Spoon spoon=new SpoonImplements1();
+        plate.behaviour();
+        plate.state();
+        plate.features();
+
+        Spoon spoon = new SpoonImplements1();
         spoon.identity();
-        Cup cup=new CupImplements1();
+        spoon.behaviour();
+        spoon.state();
+        spoon.features();
+
+        Cup cup = new CupImplements1();
         cup.state();
-        Glass glass=new GlassImplements1();
+        cup.behaviour();
+        cup.identity();
+        cup.features();
+
+        Glass glass = new GlassImplements1();
         glass.behaviour();
-        Door door=new DoorImplements1();
+        glass.state();
+        glass.identity();
+        glass.features();
+
+        Door door = new DoorImplements1();
         door.identity();
-        Window window=new WindowImplements1();
+        door.behaviour();
+        door.state();
+        door.features();
+
+        Window window = new WindowImplements1();
         window.state();
-        Wall wall=new WallImplements1();
+        window.behaviour();
+        window.identity();
+        window.features();
+
+        Wall wall = new WallImplements1();
         wall.behaviour();
-        Roof roof=new RoofImplements();
+        wall.state();
+        wall.identity();
+        wall.features();
+
+        Roof roof = new RoofImplements();
         roof.identity();
-        Floor floor=new FloorImplements1();
+        roof.behaviour();
+        roof.state();
+        roof.features();
+
+        Floor floor = new FloorImplements1();
         floor.state();
-        Key key=new KeyImplements1();
+        floor.behaviour();
+        floor.identity();
+        floor.features();
+
+        Key key = new KeyImplements1();
         key.behaviour();
-        Lock lock=new LockImplements1();
+        key.state();
+        key.identity();
+        key.features();
+
+        Lock lock = new LockImplements1();
         lock.identity();
-        Bag bag=new BagImplements1();
+        lock.behaviour();
+        lock.state();
+        lock.features();
+
+        Bag bag = new BagImplements1();
         bag.state();
-        Shirt shirt=new ShirtImplements1();
+        bag.behaviour();
+        bag.identity();
+        bag.features();
+
+        Shirt shirt = new ShirtImplements1();
         shirt.behaviour();
-        Pant pant=new PantImplements1();
+        shirt.state();
+        shirt.identity();
+        shirt.features();
+
+        Pant pant = new PantImplements1();
         pant.behaviour();
-        Shoe shoe=new ShoeImplements1();
+        pant.state();
+        pant.identity();
+        pant.features();
+
+        Shoe shoe = new ShoeImplements1();
         shoe.identity();
-        Socks socks=new SocksImplements1();
+        shoe.behaviour();
+        shoe.state();
+        shoe.features();
+
+        Socks socks = new SocksImplements1();
         socks.state();
-        Cap cap=new CapImplements1();
+        socks.behaviour();
+        socks.identity();
+        socks.features();
+
+        Cap cap = new CapImplements1();
         cap.behaviour();
-        Helmet helmet=new HelmetImplements1();
+        cap.state();
+        cap.identity();
+        cap.features();
+
+        Helmet helmet = new HelmetImplements1();
         helmet.identity();
-        Pillow pillow=new PillowImplements1();
+        helmet.behaviour();
+        helmet.state();
+        helmet.features();
+
+        Pillow pillow = new PillowImplements1();
         pillow.state();
-        Blanket blanket=new BlanketImplements1();
+        pillow.behaviour();
+        pillow.identity();
+        pillow.features();
+
+        Blanket blanket = new BlanketImplements1();
         blanket.behaviour();
-        Bed bed=new BedImplements1();
+        blanket.state();
+        blanket.identity();
+        blanket.features();
+
+        Bed bed = new BedImplements1();
         bed.identity();
-        Sofa sofa=new SofaImplements1();
+        bed.behaviour();
+        bed.state();
+        bed.features();
+
+        Sofa sofa = new SofaImplements1();
         sofa.state();
-        Carpet carpet=new CarpetImplements1();
+        sofa.behaviour();
+        sofa.identity();
+        sofa.features();
+
+        Carpet carpet = new CarpetImplements1();
         carpet.behaviour();
-        Mirror mirror=new MirrorImplements1();
+        carpet.state();
+        carpet.identity();
+        carpet.features();
+
+        Mirror mirror = new MirrorImplements1();
         mirror.behaviour();
-        Comb comb=new CombImplemets1();
+        mirror.state();
+        mirror.identity();
+        mirror.features();
+
+        Comb comb = new CombImplemets1();
         comb.identity();
-        Toothbrush toothbrush=new ToothbrushImplements1();
+        comb.behaviour();
+        comb.state();
+        comb.features();
+
+        Toothbrush toothbrush = new ToothbrushImplements1();
         toothbrush.state();
-        Toothpaste toothpaste=new ToothpasteImplements1();
+        toothbrush.behaviour();
+        toothbrush.identity();
+        toothbrush.features();
+
+        Toothpaste toothpaste = new ToothpasteImplements1();
         toothpaste.behaviour();
-        Soap soap=new SoapImplements1();
+        toothpaste.state();
+        toothpaste.identity();
+        toothpaste.features();
+
+        Soap soap = new SoapImplements1();
         soap.identity();
-        Shampoo shampoo=new ShampooImplements1();
+        soap.behaviour();
+        soap.state();
+        soap.features();
+
+        Shampoo shampoo = new ShampooImplements1();
         shampoo.identity();
-        Towel towel=new TowelImplements1();
+        shampoo.behaviour();
+        shampoo.state();
+        shampoo.features();
+
+        Towel towel = new TowelImplements1();
         towel.state();
-        Curtain curtain=new CurtainImplements1();
+        towel.behaviour();
+        towel.identity();
+        towel.features();
+
+        Curtain curtain = new CurtainImplements1();
         curtain.behaviour();
-        Lamp lamp=new LampImplements1();
+        curtain.state();
+        curtain.identity();
+        curtain.features();
+
+        Lamp lamp = new LampImplements1();
         lamp.identity();
-        Remote remote=new RemoteImplements1();
+        lamp.behaviour();
+        lamp.state();
+        lamp.features();
+
+        Remote remote = new RemoteImplements1();
         remote.state();
-        Battery battery=new BatteryImplements1();
+        remote.behaviour();
+        remote.identity();
+        remote.features();
+
+        Battery battery = new BatteryImplements1();
         battery.behaviour();
-        Drone drone=new DroneImplements1();
+        battery.state();
+        battery.identity();
+        battery.features();
+
+        Drone drone = new DroneImplements1();
         drone.identity();
-        Printer printer=new PrinterImplements1();
+        drone.behaviour();
+        drone.state();
+        drone.features();
+
+        Printer printer = new PrinterImplements1();
         printer.identity();
-        Mouse mouse=new MouseImplements1();
+        printer.behaviour();
+        printer.state();
+        printer.features();
+
+        Mouse mouse = new MouseImplements1();
         mouse.state();
-        Keyboard keyboard=new KeyboardImplements1();
+        mouse.behaviour();
+        mouse.identity();
+        mouse.features();
+
+        Keyboard keyboard = new KeyboardImplements1();
         keyboard.behaviour();
-        Monitor monitor=new MonitorImplements1();
+        keyboard.state();
+        keyboard.identity();
+        keyboard.features();
+
+        Monitor monitor = new MonitorImplements1();
         monitor.identity();
-        Projector projector=new ProjectorImplements1();
+        monitor.behaviour();
+        monitor.state();
+        monitor.features();
+
+        Projector projector = new ProjectorImplements1();
         projector.state();
-        Satelite satelite=new SatelliteImplements1();
-        satelite.behaviour();
-        Rocket rocket=new RocketImplements1();
+        projector.behaviour();
+        projector.identity();
+        projector.features();
+
+        Satelite satellite = new SatelliteImplements1();
+        satellite.behaviour();
+        satellite.state();
+        satellite.identity();
+        satellite.features();
+
+        Rocket rocket = new RocketImplements1();
         rocket.identity();
-        Telescope telescope=new TelescopeImplements1();
+        rocket.behaviour();
+        rocket.state();
+        rocket.features();
+
+        Telescope telescope = new TelescopeImplements1();
         telescope.state();
-        Microscope microscope=new MicroscopeImplements1();
+        telescope.behaviour();
+        telescope.identity();
+        telescope.features();
+
+        Microscope microscope = new MicroscopeImplements1();
         microscope.behaviour();
-        Screwdriver screwdriver=new ScrewdriverImplements1();
+        microscope.state();
+        microscope.identity();
+        microscope.features();
+
+        Screwdriver screwdriver = new ScrewdriverImplements1();
         screwdriver.identity();
-        Hammer hammer=new HammerImplements1();
+        screwdriver.behaviour();
+        screwdriver.state();
+        screwdriver.features();
+
+        Hammer hammer = new HammerImplements1();
         hammer.identity();
-        Nail nail=new NailImplements1();
+        hammer.behaviour();
+        hammer.state();
+        hammer.features();
+
+        Nail nail = new NailImplements1();
         nail.state();
+        nail.behaviour();
+        nail.identity();
+        nail.features();
     }
 }

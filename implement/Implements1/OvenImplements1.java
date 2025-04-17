@@ -18,4 +18,9 @@ public class OvenImplements1 implements Oven {
     public void state() {
         System.out.println("running oven state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in oven");
+
+    }
 }

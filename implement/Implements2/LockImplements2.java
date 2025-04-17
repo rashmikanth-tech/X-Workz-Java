@@ -20,4 +20,9 @@ public class LockImplements2 implements Lock, Bag {
     public void state() {
         System.out.println("running lock state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in lock bag");
+
+    }
 }

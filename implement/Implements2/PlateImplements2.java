@@ -20,4 +20,9 @@ public class PlateImplements2 implements Plate, Spoon {
     public void state() {
         System.out.println("running plate state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in plate spoon");
+
+    }
 }

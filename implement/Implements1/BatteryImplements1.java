@@ -18,4 +18,8 @@ public class BatteryImplements1 implements Battery {
     public void state() {
         System.out.println("running battery state in implements");
     }
+    public void features(){
+        System.out.println("feature running in battery");
+
+    }
 }

@@ -18,4 +18,9 @@ public class MirrorImplements1 implements Mirror {
     public void state() {
         System.out.println("running mirror state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in micro implement");
+
+    }
 }

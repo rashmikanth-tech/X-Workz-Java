@@ -19,4 +19,9 @@ public class PenImplements5 implements Pen, Book, Laptop, Smartphone, Bottle {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

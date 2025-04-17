@@ -18,4 +18,8 @@ public class BulbImplements1 implements Bulb {
     public void state() {
         System.out.println("running bulb state in implements");
     }
+    public void features(){
+        System.out.println("feature running in bulb");
+
+    }
 }

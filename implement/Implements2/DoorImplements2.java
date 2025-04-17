@@ -20,4 +20,9 @@ public class DoorImplements2 implements Door, Window {
     public void state() {
         System.out.println("running door state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in door window");
+
+    }
 }

@@ -19,4 +19,8 @@ public class BagImplements1 implements Bag {
     public void state() {
         System.out.println("running bag state in implements");
     }
+    public void features(){
+        System.out.println("feature running in bag");
+
+    }
 }

@@ -18,4 +18,9 @@ public class PantImplements1 implements Pant {
     public void state() {
         System.out.println("running pant state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in pant");
+
+    }
 }

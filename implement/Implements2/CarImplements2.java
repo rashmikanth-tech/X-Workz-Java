@@ -20,4 +20,9 @@ public class CarImplements2 implements Car, Bike {
     public void state() {
         System.out.println("running car state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in car bike");
+
+    }
 }

@@ -20,4 +20,9 @@ public class ChairImplements2 implements Chair, Table {
     public void state() {
         System.out.println("running chair state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in chair table");
+
+    }
 }

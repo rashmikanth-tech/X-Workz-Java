@@ -18,4 +18,9 @@ public class TowelImplements1 implements Towel {
     public void state() {
         System.out.println("running towel state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in towel");
+
+    }
 }

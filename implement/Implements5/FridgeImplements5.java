@@ -19,4 +19,9 @@ public class FridgeImplements5 implements Fridge, Car, Bike, Bus, Train {
     public void state() {
         System.out.println("running  state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in implement5");
+
+    }
 }

@@ -18,4 +18,8 @@ public class BlanketImplements1 implements Blanket {
     public void state() {
         System.out.println("running blanket state in implements");
     }
+    public void features(){
+        System.out.println("feature running in blank");
+
+    }
 }

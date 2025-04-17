@@ -18,4 +18,9 @@ public class GlassImplements1 implements Glass {
     public void state() {
         System.out.println("running glass state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in glass");
+
+    }
 }

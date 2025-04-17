@@ -18,4 +18,9 @@ public class ShoeImplements1 implements Shoe {
     public void state() {
         System.out.println("running shoe state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in shoe");
+
+    }
 }

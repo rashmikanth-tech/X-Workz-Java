@@ -20,4 +20,9 @@ public class CarpetImplements2 implements Carpet, Mirror {
     public void state() {
         System.out.println("running carpet state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in carpet mirror");
+
+    }
 }

@@ -20,4 +20,9 @@ public class BottleImplements2 implements Bottle, Fan {
     public void state() {
         System.out.println("running bottle state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in bottle fan");
+
+    }
 }

@@ -18,4 +18,8 @@ public class BottleImplements1 implements Bottle {
     public void state() {
         System.out.println("running bottle state in implements");
     }
+    public void features(){
+        System.out.println("feature running in bottle");
+
+    }
 }

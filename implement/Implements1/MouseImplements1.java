@@ -18,4 +18,9 @@ public class MouseImplements1 implements Mouse {
     public void state() {
         System.out.println("running mouse state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in mouse");
+
+    }
 }

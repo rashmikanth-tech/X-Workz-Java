@@ -18,4 +18,8 @@ public class BookImplements1 implements Book {
     public void state() {
         System.out.println("running book state in implements");
     }
+    public void features(){
+        System.out.println("feature running in book");
+
+    }
 }

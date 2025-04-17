@@ -18,4 +18,9 @@ public class SatelliteImplements1 implements Satelite {
     public void state() {
         System.out.println("running satelite state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in setelite");
+
+    }
 }

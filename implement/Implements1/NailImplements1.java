@@ -18,4 +18,9 @@ public class NailImplements1 implements Nail {
     public void state() {
         System.out.println("running nail state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in nail");
+
+    }
 }

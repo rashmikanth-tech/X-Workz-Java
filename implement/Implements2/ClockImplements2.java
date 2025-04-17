@@ -20,4 +20,9 @@ public class ClockImplements2 implements Clock, Watch {
     public void state() {
         System.out.println("running clock state in implements");
     }
+    @Override
+    public void features(){
+        System.out.println("feature running in clock watch");
+
+    }
 }
