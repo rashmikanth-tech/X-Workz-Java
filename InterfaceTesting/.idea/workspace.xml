@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc54a9ff-f9bc-44a1-9769-fde4d9fd6cec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instanc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/AITrainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Airtel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/BCCI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/BankManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/CarWorkshop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Carpenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/CinemaFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Compiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/ConnecterUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/CurrencyExchanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/DevOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/DrawingTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/EducationBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Electrician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/EventOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/FashionDesigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/FuelStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Gardener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Government.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/HR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/HealthDept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/HomeOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/HomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/ITGuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/IoTDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/JavaDev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Mechanic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Messenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/MusicTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/NetworkAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Painter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Photographer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Rider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Showroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/SmartHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/SocialManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/SportsAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/SysAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/TechSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/ToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/TransportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/Traveler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/WeatherReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/WebTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/external/ZooKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/AIModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/AWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Alexa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/AndroidBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Apollo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Appliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Art.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/BBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Bikeee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/ChatGPT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/CitizenConstituionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Clothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/CloudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/ConnectTothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Connector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Consitution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/DSLR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/DieselEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Diwali.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Festival.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Firewall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Forex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Framework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Fuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Hammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/ICC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Inception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/IndianCricketTeamIccImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Instagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Lithium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/MRFTyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/MessageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/OS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/PDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Painting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Plumbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/PrimarySchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/PythonLang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Rain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Ramayana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Rupee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/SBI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/SocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Sport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Spring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/TeddyBear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/TemperatureSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/TransportService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Uber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/internal/WhatsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/interfacee/runner/Runner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2w5FsRajujmWTRuKjcLnjuPjQWA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Runner.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "P:/Instanc/src",
+    "onboarding.tips.debug.path": "P:/Instanc/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Instanc\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.interfacee.runner.Runner" />
+      <module name="Instanc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.interfacee.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc54a9ff-f9bc-44a1-9769-fde4d9fd6cec" name="Changes" comment="" />
+      <created>1745323737313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745323737313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
